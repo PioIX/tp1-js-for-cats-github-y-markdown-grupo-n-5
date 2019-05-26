@@ -4,8 +4,9 @@
 
 *Prof. Felipe Vázquez – fvazquez@pioix.edu.ar*
 
+![Piologo](logopio.jpg)
 ### GUÍA JS PARA GATOS
-(HTTPS://JSPARAGATOS.COM/)
+[JavaScript para gatos](HTTPS://JSPARAGATOS.COM/)
 
 1. ¿Qué fue lo que más te gustó de la guía?
 2. ¿Qué fue lo más fácil?
@@ -29,3 +30,8 @@ También nos resultó fácil el hecho de ser un **lenguaje comprensivo**, es dec
 5) La *sintaxis*, es decir la forma en que escribimos las instrucciones.
 
 6) Hacer todo de la manera más simple/fácil posible, es decir ser vago siempre.
+
+
+#xd|#dx
+---|---
+Boke|River
