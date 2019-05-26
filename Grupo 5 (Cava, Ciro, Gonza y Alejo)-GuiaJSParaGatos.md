@@ -4,8 +4,7 @@
 
 *Prof. Felipe Vázquez – fvazquez@pioix.edu.ar*
 
-### GUÍA JS PARA GATOS
-(HTTPS://JSPARAGATOS.COM/)
+### [GUÍA JS PARA GATOS](HTTPS://JSPARAGATOS.COM/)
 
 1. ¿Qué fue lo que más te gustó de la guía?
 2. ¿Qué fue lo más fácil?
